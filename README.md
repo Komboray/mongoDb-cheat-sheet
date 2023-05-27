@@ -1,5 +1,7 @@
 # mongoDb-cheat-sheet
-This is a cheat sheet that has all the simple commands used to connect to mongoDb database. This is a non-relational database
+This is a cheat sheet that has all the simple commands used to connect to mongoDb database. 
+
+//This is a non-relational database that uses the structure of DATABASE-> COLLLECTION -> DOCUMENTS -> FIELDS
 
 //NOTE: mongoDb is used in the json format i.e, list[] then maps{} which are inside the maps e.t.c
 
@@ -7,9 +9,7 @@ This is a cheat sheet that has all the simple commands used to connect to mongoD
 
 //Though we are programmers, we definetly need the shell https://www.mongodb.com/docs/mongodb-shell/install/
 
-1.//In the shell such as in screenshot
-
-(53).png in my files, run $mongosh
+1.//In the shell such as in screenshot (53).png in my files, run $mongosh
 
 2.$ cls - clears the screens
 
